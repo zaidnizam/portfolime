@@ -38,9 +38,9 @@
     height: 28.125rem;
     border-radius: 50%;
     background: #7c66e3;
-    position: absolute;
+    position: absolute; 
     z-index: -1;
-    /* animation-name: jellyEffect; */
+    animation-name: jellyEffect;
     animation-duration: 3s;
     animation-timing-function: ease-in-out;
     animation-iteration-count: infinite;
